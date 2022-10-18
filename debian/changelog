@@ -1,0 +1,17 @@
+rime-loengfan (0.0~git20220303.987ac95-1) UNRELEASED; urgency=medium
+
+  * update
+
+ -- Debian Input Method Team <debian-input-method@lists.debian.org>  Fri, 22 Apr 2022 17:43:16 +0800
+
+rime-loengfan (0.0~git20220303.987ac95-1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Boyuan Yang <byang@debian.org>  Sun, 13 Mar 2022 19:17:20 -0400
+
+rime-loengfan (0.0~git20210704.7c9b0a0-1) unstable; urgency=medium
+
+  * Initial release. (Closes: #1005842)
+
+ -- Boyuan Yang <byang@debian.org>  Tue, 15 Feb 2022 16:34:06 -0500
